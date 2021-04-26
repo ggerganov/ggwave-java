@@ -1,0 +1,3 @@
+[submodule "app/src/main/cpp/ggwave"]
+	path = app/src/main/cpp/ggwave
+	url = https://github.com/ggerganov/ggwave
